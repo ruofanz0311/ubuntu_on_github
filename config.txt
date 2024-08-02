@@ -1,4 +1,4 @@
-ngrok_authtoken: 23rG6Pk5nPdctalhFJnCaOevCGg_5MUxr1dNmXE43Lnh7cH8h
+ngrok_authtoken: 2jaG06N1KiVwklfLszXigN3zqCA_5F8r6j7iYk8HB3jWcRrXp
 ngrok_region: ap
-password: khanhnguyen
+password: ubuntuvps
 
